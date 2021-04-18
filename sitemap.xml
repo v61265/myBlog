@@ -3,6 +3,8 @@
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://v61265.github.io/myBlog/blog/myBlog/html-base</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://v61265.github.io/myBlog/blog/myBlog/Lidemy-week5-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/JavaScript-API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/JavaScript-es6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/JavaScript-base-other</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -13,5 +15,7 @@
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags/java-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags/coding-筆記</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags/學習心得</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags/程式導師計劃</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://v61265.github.io/myBlog/blog/myBlog/tags/程式概念檢測</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
