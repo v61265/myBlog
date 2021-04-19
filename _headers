@@ -62,6 +62,33 @@
   Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-35d09f4d1f6a70300fce.js>; rel=preload; as=script
   Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </myBlog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/myBlog/Lidemy-week10-review
+  Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
+  Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </myBlog/app-de6d859ba09b1a7db0cd.js>; rel=preload; as=script
+  Link: </myBlog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </myBlog/aed2e917f30c051bccba91aa15989a75fd0bd633-18ae887557b942bf98cf.js>; rel=preload; as=script
+  Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-345a1323705705846555.js>; rel=preload; as=script
+  Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </myBlog/page-data/Lidemy-week10-review/page-data.json>; rel=preload; as=fetch; crossorigin
+/myBlog/r30-clanllege
+  Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
+  Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </myBlog/app-de6d859ba09b1a7db0cd.js>; rel=preload; as=script
+  Link: </myBlog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </myBlog/aed2e917f30c051bccba91aa15989a75fd0bd633-18ae887557b942bf98cf.js>; rel=preload; as=script
+  Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-345a1323705705846555.js>; rel=preload; as=script
+  Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </myBlog/page-data/r30-clanllege/page-data.json>; rel=preload; as=fetch; crossorigin
+/myBlog/php-mysql-base
+  Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
+  Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </myBlog/app-de6d859ba09b1a7db0cd.js>; rel=preload; as=script
+  Link: </myBlog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </myBlog/aed2e917f30c051bccba91aa15989a75fd0bd633-18ae887557b942bf98cf.js>; rel=preload; as=script
+  Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-345a1323705705846555.js>; rel=preload; as=script
+  Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </myBlog/page-data/php-mysql-base/page-data.json>; rel=preload; as=fetch; crossorigin
 /myBlog/html-base
   Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
   Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -152,6 +179,15 @@
   Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-4ffed70a2db99696c906.js>; rel=preload; as=script
   Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </myBlog/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/myBlog/tags/back-end
+  Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
+  Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </myBlog/app-de6d859ba09b1a7db0cd.js>; rel=preload; as=script
+  Link: </myBlog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </myBlog/aed2e917f30c051bccba91aa15989a75fd0bd633-18ae887557b942bf98cf.js>; rel=preload; as=script
+  Link: </myBlog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-6d5261cb188f0457dd2e.js>; rel=preload; as=script
+  Link: </myBlog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </myBlog/page-data/tags/back-end/page-data.json>; rel=preload; as=fetch; crossorigin
 /myBlog/tags/java-script
   Link: </myBlog/webpack-runtime-29bb9fdaadd82756c469.js>; rel=preload; as=script
   Link: </myBlog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
